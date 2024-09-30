@@ -1,7 +1,7 @@
 # Hey there, I'm Bima Jovanta! 👋
 ### Full Stack Developer | Web Enthusiast | Innovator | Tech Dreamer
 
-![Profile Banner](https://drive.google.com/file/d/1ykm2-ul4axdWOanwWpJo5OAfH9ImokFl/view?usp=sharing) <!-- Use a customized banner image here -->
+![Profile Banner](github-header.png) <!-- Use a customized banner image here -->
 
 Welcome to my GitHub! I'm a passionate developer who enjoys crafting clean, scalable, and impactful web solutions. I strive to bridge the gap between technology and creativity, building projects that are not only functional but also aesthetically pleasing.
 
