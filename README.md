@@ -70,6 +70,12 @@ I'm continuously learning and keeping up-to-date with the latest advancements in
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=Intellis-Ai&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=myweb&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=bubble-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+</div>
+
 ### 🔹 [Intellis-AI](https://github.com/bimadevs/Intellis-Ai) 
 An AI-powered project built with TypeScript. It enhances user interactions through machine learning models and automation techniques. The project leverages RESTful APIs and integrates with various external services to offer a seamless experience.
 
@@ -103,11 +109,9 @@ An interactive web game developed using HTML, CSS, and vanilla JavaScript. This 
 ## 📫 Connect With Me
 I'm always open to new collaborations and projects. Let’s connect and build something amazing together!
 
-- 🌐 **Website**: [intellis.bimadev.xyz](https://intellis.bimadev.xyz)
-- 💼 **LinkedIn**: [Bima Jovanta](https://www.linkedin.com/in/bima-jovanta)
+- 🌐 **Website**: [bimadev.xyz](https://bimadev.xyz)
+- 💼 **Instagram**: [Biimaa_jo](https://instagram.com/biimaa_jo)
 - 📧 **Email**: bimaj0206@gmail.com
-- 🐦 **Twitter**: [@bimajovanta](https://twitter.com/bimajovanta)
-
 ---
 
 ## 💡 Quote to Live By
