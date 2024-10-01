@@ -75,6 +75,7 @@ I'm continuously learning and keeping up-to-date with the latest advancements in
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=Intellis-Ai&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=myweb&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=bubble-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=image-to-code&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 </div>
 
 ### 🔹 [Intellis-AI](https://github.com/bimadevs/Intellis-Ai) 
@@ -94,6 +95,13 @@ An interactive web game developed using HTML, CSS, and vanilla JavaScript. This 
 
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Engaging UI/UX, interactive animations, and gamification elements.
+
+### 🔹 [Image to Code](https://github.com/bimadevs/image-to-code) 
+Generate your image to code HTML and Tailwindcss
+
+- **Tech Stack**: Python
+- **LLMs**: Gemini
+- **Features**: Fast, Accurate 80%.
 
 ---
 
