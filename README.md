@@ -14,7 +14,8 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=bimadevs&style=flat-square&color=blue" alt="bimadevs view profil"/>
 
-# Hey there, I'm Bima Jovanta! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=0A4BA9&center=true&vCenter=true&multiline=true&width=435&height=60&lines=BimaDev;Full+Stack+Developer)](https://git.io/typing-svg)
+
 ### Full Stack Developer | Web Enthusiast | Innovator | Tech Dreamer
 
 ![Profile Banner](github-header.png) <!-- Use a customized banner image here -->
@@ -103,6 +104,11 @@ An interactive web game developed using HTML, CSS, and vanilla JavaScript. This 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bimadevs&theme=dark&hide_border=true&border_radius=6&mode=weekly&fire=EB5454)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimadevs&layout=compact&theme=radical)
 </div>
+
+---
+
+## 🏆 Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=bimadevs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
