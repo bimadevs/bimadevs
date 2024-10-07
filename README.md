@@ -77,6 +77,7 @@ I'm continuously learning and keeping up-to-date with the latest advancements in
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=bubble-game&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=image-to-code&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=signature-generator&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bimadevs&repo=keyboard-checker&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
 </div>
 
 
