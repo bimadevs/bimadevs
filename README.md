@@ -105,11 +105,18 @@ Generate your image to code HTML and Tailwindcss
 - **LLMs**: Gemini
 - **Features**: Fast, Accurate 80%.
   
-### 🔹 [Image to Code](https://github.com/bimadevs/signature-generator) 
+### 🔹 [Signature Generator ](https://github.com/bimadevs/signature-generator) 
 Generate your signature
 
 - **Tech Stack**: HTML, TailwindCSS, Javascript
 - **Features**: Cool, Fast, Beautiful hand Writings 
+
+---
+### 🔹 [Keyboard Checker](https://github.com/bimadevs/keyboard-checker) 
+A virtual keyboard application that allows users to interact with a digital keyboard interface. Users can switch between full-size and half-size layouts, making it versatile for various devices and use cases.
+
+- **Tech Stack**: HTML, TailwindCSS, Javascript
+- **Features**: Cool, Fast
 
 ---
 
