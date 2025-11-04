@@ -71,21 +71,6 @@ Let’s build something awesome together 🚀
 
 ---
 
-## 🌐 Highlighted Works
-### 🔹 [Intellis-AI](https://github.com/bimadevs/Intellis-Ai)
-> An AI-powered code assistant that helps developers generate, explain, and debug code in real-time using OpenAI API.
-
-### 🔹 [MyWeb](https://github.com/bimadevs/myweb)
-> Personal portfolio website built with **Next.js 14 + TailwindCSS**, showcasing projects and contact links.
-
-### 🔹 [Image-to-Code](https://github.com/bimadevs/image-to-code)
-> Converts design images into responsive HTML/CSS — turning creativity into functional code.
-
-### 🔹 [Bubble Game](https://github.com/bimadevs/bubble-game)
-> A fun JavaScript-based web game made to explore DOM manipulation and interactivity.
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
